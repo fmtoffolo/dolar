@@ -1,3 +1,5 @@
+<h1>TESTING</h1>
+
 <?php
 echo "test";
 ?>
